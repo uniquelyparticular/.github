@@ -1,6 +1,11 @@
 ### [Particular.](https://uniquelyparticular.com) 👋 
 The Innovation Agency of Tomorrow, Today.
 
+### Founder 🙋‍♂️
+[Adam Grohs](https://github.com/agrohs) - @agrohs: https://uniquelyparticular.com/adam-grohs
+
+---
+
 ### [agnoStack](https://agnostack.com) [🏝](http://maps.google.com/maps/place?cid=13396270753657624207)
 THE Post Purchase Experience Engine - Customer experience doesn't stop at checkout!
 [![agnoStack](https://user-images.githubusercontent.com/160647/205491010-d3e80ef7-65f3-4a28-93a4-93322193136d.svg "agnoStack")](https://agnostack.com)
@@ -26,6 +31,3 @@ THE Post Purchase Experience Engine - Customer experience doesn't stop at checko
 - [Shopify Zendesk](https://shopifyzendesk.com): https://shopifyzendesk.com
 - [Zendesk vs. Gorgias](https://zendeskvsgorgias.com): https://zendeskvsgorgias.com
 
-### Founders 🙋‍♂️
-- [Adam Grohs](https://github.com/agrohs) - @agrohs: https://agnostack.com/founding-team/adam-grohs
-- [Rob Bowers](https://github.com/rsbowers) - @rsbowers: https://agnostack.com/founding-team/rob-bowers
